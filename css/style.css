@@ -71,6 +71,27 @@ ul{
 table{
     font-size: 12.5px;
     margin-bottom: 15px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    text-align: left;
+    background-color: #21A9E5;
+    color: white;
+}
+
+.thead-large{
+    width: 50%;
+}
+
+.thead-small{
+    width: 25%;
+}
+
+.color-bg{
+    background-color: #B1E5F2;
 }
 
 .footer-suggestions{
