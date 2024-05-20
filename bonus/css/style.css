@@ -13,7 +13,7 @@ header{
 }
 
 
-main{
+main, footer{
     width: 80%;
     margin: auto;
     background-color: white;
@@ -57,7 +57,8 @@ a{
 }
 
 .main-photo-container img{
-    height: 280px;
+    width: auto;
+    height: 250px;
 }
 
 .photo-descriptions{
