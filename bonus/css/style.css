@@ -4,13 +4,19 @@
     box-sizing: border-box;
 }
 
-header{
+.container{
+    width: 100%;
     height: 75px;
     background-image:url(../img/pattern.png) ;
     background-color: #4DA0FE;
     background-size: 35%;
-    width: 100%;
 }
+
+header{
+    width: 80%;
+    margin: auto;
+}
+
 
 
 main{
@@ -140,4 +146,9 @@ th{
     color: white;
     font-weight: 800;
     margin-left: 5px;
+}
+
+footer{
+    width: 80%;
+    margin: auto;
 }
